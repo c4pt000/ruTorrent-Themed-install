@@ -7,6 +7,8 @@ https://github.com/c4pt000/quickbox-debian
 
 * ssh modification to /etc/sshd_config removed during pre-flight of install script
 
+* if frontend doesnt full respond after reboot check "rtorrent" via cron
+
 ## orig rtinst @ https://github.com/arakasi72/rtinst
 
 ### Note: Now installs SSL using "Lets Encrypt SSL certbot"
