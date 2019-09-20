@@ -1,7 +1,7 @@
 for quickbox see:
 https://github.com/c4pt000/quickbox-debian
 
-rutorrent themed
+# ** rutorrent themed
 
 
 ## orig rtinst @ https://github.com/arakasi72/rtinst
