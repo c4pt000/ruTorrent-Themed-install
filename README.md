@@ -51,38 +51,23 @@ and then to run the main script, ([check the options you can use](https://github
 
 ## Installation
  
-
 * [**Agent34**] <p align="center"><img src="https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/agent34.png" width="600"></p>
 
- 
-**Agent46** [(screenshot)](https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/agent46.png)
-```
+* [**Agent46**] <p align="center"><img src="https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/agent46.png" width="600"></p>
 
-```
- 
-**OblivionBlue** [(screenshot)](https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/oblivionblue.png)
-```
+* [**OblivionBlue**] <p align="center"><img src="https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/oblivionblue.png" width="600"></p>
 
- 
-**MaterialDesign** [(screenshot)](https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/materialdesign.jpg)
-```
+* [**MaterialDesign**] <p align="center"><img src="https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/materialdesign.jpg" width="600"></p>
 
- 
-**FlatUI_Dark** [(screenshot)](https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/FlatUI_Dark.png)
-```
+* [**FlatUI_Dark**] <p align="center"><img src="https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/FlatUI_Dark.png" width="600"></p>
 
- 
-**FlatUI_Light** [(screenshot)](https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/FlatUI_Light.png)
-```
+* [**FlatUI_Light**] <p align="center"><img src="https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/FlatUI_Light.png" width="600"></p>
 
-```
- 
-**FlatUI_Material** [(screenshot)](https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/FlatUI_Material.png)
-```
+* [**FlatUI_Material**] <p align="center"><img src="https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/FlatUI_Material.png" width="600"></p>
 
- 
-**club-QuickBox** [(screenshot)](https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/club-QuickBox.png)
-```
+* [**club-QuickBox**] <p align="center"><img src="https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/club-QuickBox.png" width="600"></p>
+
+
 
 
 <br>
