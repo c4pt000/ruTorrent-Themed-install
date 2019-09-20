@@ -13,7 +13,6 @@ https://github.com/c4pt000/quickbox-debian
 Ubuntu and Debian Seedbox Installation
 
 
-# ** THIS SCRIPT WILL OVERWRITE a pre-existing SSHD_CONFIG 
 
 Download and run setup (if logged in directly as root, do not need to use sudo)
 
