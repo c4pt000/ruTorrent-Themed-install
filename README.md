@@ -3,6 +3,8 @@ https://github.com/c4pt000/quickbox-debian
 
 # ** rutorrent themed
 
+* magnet links working from basic install
+
 * ssh modification to /etc/sshd_config removed during pre-flight of install script
 
 ## orig rtinst @ https://github.com/arakasi72/rtinst
