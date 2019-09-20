@@ -9,6 +9,9 @@ https://github.com/c4pt000/quickbox-debian
 
 * if frontend doesnt full respond after reboot check "rtorrent" via cron
 
+
+* todo -> docker image
+
 ## orig rtinst @ https://github.com/arakasi72/rtinst
 
 ### Note: Now installs SSL using "Lets Encrypt SSL certbot"
