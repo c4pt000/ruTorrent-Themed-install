@@ -12,6 +12,7 @@ https://github.com/c4pt000/quickbox-debian
 
 Ubuntu and Debian Seedbox Installation
 
+```git clone https://github.com/c4pt000/rtinst```
 
 
 Download and run setup (if logged in directly as root, do not need to use sudo)
