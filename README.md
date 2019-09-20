@@ -20,7 +20,7 @@ Download and run setup (if logged in directly as root, do not need to use sudo)
 
 and then to run the main script, ([check the options you can use](https://github.com/arakasi72/rtinst/wiki/Guide#21-main-script-options)):
 
-	sudo rtinst
+	cd rtinst && sudo ./rtsetup
 
 
 * [flatui-dark theme] <p align="center"><img src="https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/FlatUI_Dark.png" width="800"></p>
