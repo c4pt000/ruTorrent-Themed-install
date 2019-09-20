@@ -18,7 +18,7 @@ and then to run the main script, ([check the options you can use](https://github
 	sudo rtinst
 
 
-* [flatui-dark theme] <p align="center"><img src="https://raw.githubusercontent.com/ArtyumX/ruTorrentThemes/master/FlatUI_Dark.png" width="800"></p>
+* [flatui-dark theme] <p align="center"><img src="https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/FlatUI_Dark.png" width="800"></p>
 
 
 * [changing theme] <p align="center"><img src="https://raw.githubusercontent.com/wiki/Novik/ruTorrent/images/PluginTheme/theme13.png" width="600"></p>
