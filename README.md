@@ -7,7 +7,7 @@ https://github.com/c4pt000/quickbox-debian
 
 * ssh modification to /etc/sshd_config removed during pre-flight of install script
 
-* if frontend doesnt full respond after reboot check "rtorrent" via cron
+* see troubleshooting
 
 
 * todo -> docker image
@@ -82,3 +82,6 @@ and then to run the main script, ([check the options you can use](https://github
 <br>
 
 
+* troubleshooting
+* if frontend doesnt full respond after reboot check "rtorrent" status running via cron | ps ax
+* check rtorrent config matching /home/seedboxuser/.rtorrent.rc -> /root/.rtorrent.rc
