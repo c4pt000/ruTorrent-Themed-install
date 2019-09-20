@@ -51,8 +51,8 @@ and then to run the main script, ([check the options you can use](https://github
 
 ## Installation
  
-**Agent34** [(screenshot)](https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/agent34.png)
-```
+
+* [**Agent34**] <p align="center"><img src="https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/agent34.png" width="600"></p>
 
  
 **Agent46** [(screenshot)](https://raw.githubusercontent.com/ArtyumX/ruTorrent-Themes/master/agent46.png)
