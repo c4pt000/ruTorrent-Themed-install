@@ -12,7 +12,9 @@ https://github.com/c4pt000/quickbox-debian
 
 Ubuntu and Debian Seedbox Installation
 
-sudo bash -c "$(wget --no-check-certificate -qO - https://raw.githubusercontent.com/c4pt000/rtinst/master/rtsetup)"
+Download and run setup (if logged in directly as root, do not need to use sudo)
+
+	sudo bash -c "$(wget --no-check-certificate -qO - https://raw.githubusercontent.com/arakasi72/rtinst/master/rtsetup)"
 
 
 Download and run setup (if logged in directly as root, do not need to use sudo)
