@@ -1,3 +1,6 @@
+for quickbox see:
+https://github.com/c4pt000/quickbox-debian
+
 rutorrent themed
 
 
