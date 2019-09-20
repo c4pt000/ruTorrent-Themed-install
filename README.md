@@ -6,7 +6,7 @@ https://github.com/c4pt000/quickbox-debian
 
 ## orig rtinst @ https://github.com/arakasi72/rtinst
 
-### Note: Now installs Lets Encrypt SSL certificates
+### Note: Now installs SSL using "Lets Encrypt SSL certbot"
 
 #### 30 Second Guide
 
